@@ -1,0 +1,1 @@
+To open the file for ubuntu, use gedit nameoffile, for mac, open nameoffile, for windows, start nameofile.
